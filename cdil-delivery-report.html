@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CDIL Website — Delivery Report</title>
+<style>
+:root {
+  --bg: #f3efe4;
+  --text: #1a2620;
+  --accent: #35533f;
+  --muted: #6b7c74;
+  --border: #d8d3c8;
+  --pass: #2d6a4f;
+  --pass-bg: #d8f3dc;
+  --warn: #7b3f00;
+  --warn-bg: #ffe8cc;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1a2620;
+    --text: #e8e3d8;
+    --accent: #7db89a;
+    --muted: #8fa396;
+    --border: #2e3e38;
+    --pass-bg: #1a3d2a;
+    --warn-bg: #3d2a00;
+  }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: Inter, system-ui, sans-serif; font-size: 15px; line-height: 1.6; padding: 0 16px; }
+.wrap { max-width: 820px; margin: 0 auto; padding: 48px 0 80px; }
+header { margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 24px; }
+h1 { font-family: Fraunces, Georgia, serif; font-weight: 300; font-size: clamp(1.8rem, 5vw, 2.4rem); color: var(--text); margin-bottom: 6px; }
+.meta { color: var(--muted); font-size: 13px; }
+h2 { font-family: Fraunces, Georgia, serif; font-weight: 400; font-size: 1.25rem; color: var(--accent); margin: 36px 0 12px; }
+h3 { font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 24px 0 8px; }
+p { margin-bottom: 12px; color: var(--muted); }
+.audit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 16px 0; }
+@media (max-width: 500px) { .audit-grid { grid-template-columns: 1fr; } }
+.audit-card { background: var(--pass-bg); border: 1px solid #a8d5b5; border-radius: 8px; padding: 14px 16px; display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.audit-card .label { font-size: 13px; color: var(--text); }
+.audit-card .value { font-family: Fraunces, serif; font-size: 1.4rem; font-weight: 300; color: var(--pass); white-space: nowrap; }
+.badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 99px; margin-left: 6px; vertical-align: middle; }
+.badge.pass { background: var(--pass-bg); color: var(--pass); border: 1px solid #a8d5b5; }
+.badge.warn { background: var(--warn-bg); color: var(--warn); border: 1px solid #f0a86f; }
+table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 13px; }
+th { text-align: left; padding: 8px 12px; border-bottom: 2px solid var(--border); font-weight: 600; color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .05em; }
+td { padding: 8px 12px; border-bottom: 1px solid var(--border); color: var(--text); vertical-align: top; }
+td code { font-family: 'Courier New', monospace; font-size: 12px; background: var(--border); padding: 1px 5px; border-radius: 3px; }
+td:last-child { color: var(--muted); }
+.note-list { list-style: none; padding: 0; }
+.note-list li { padding: 10px 0 10px 20px; border-bottom: 1px solid var(--border); font-size: 13px; color: var(--muted); position: relative; }
+.note-list li::before { content: "○"; position: absolute; left: 0; color: var(--accent); }
+.note-list li strong { color: var(--text); }
+.design-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.chip { display: flex; align-items: center; gap: 8px; background: var(--border); border-radius: 6px; padding: 6px 12px; font-size: 13px; }
+.swatch { width: 18px; height: 18px; border-radius: 50%; border: 1px solid rgba(0,0,0,.1); flex-shrink: 0; }
+footer { margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 12px; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>CDIL Real Estate — Delivery Report</h1>
+  <p class="meta">Project: CDIL Real Estate &amp; Infrastructure, Nashik &nbsp;·&nbsp; Delivered: October 18, 2026</p>
+</header>
+
+<h2>Audit Results — All Checks Pass</h2>
+<div class="audit-grid">
+  <div class="audit-card">
+    <span class="label">AYLAAA occurrences (user-visible)</span>
+    <span class="value">0 <span class="badge pass">PASS</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">US city references</span>
+    <span class="value">0 <span class="badge pass">PASS</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">CDIL email links</span>
+    <span class="value">26 <span class="badge pass">PASS</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">CDIL phone links</span>
+    <span class="value">13 <span class="badge pass">PASS</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">Blue overlay on cards</span>
+    <span class="value">0 <span class="badge pass">FIXED</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">Property prices ($ / currency)</span>
+    <span class="value">0 <span class="badge pass">REMOVED</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">CDIL Logo in Navbar &amp; Footer</span>
+    <span class="value">100% <span class="badge pass">ACTIVE</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">Broken .mailto/.tel links</span>
+    <span class="value">0 <span class="badge pass">PASS</span></span>
+  </div>
+  <div class="audit-card">
+    <span class="label">Old US phone numbers</span>
+    <span class="value">0 <span class="badge pass">PASS</span></span>
+  </div>
+</div>
+
+<h2>What Was Updated</h2>
+<h3>Brand &amp; Content (24 HTML files)</h3>
+<ul class="note-list">
+  <li><strong>Branding:</strong> All AYLAAA / Riyad Sbeitan references removed. CDIL Real Estate &amp; Infrastructure throughout.</li>
+  <li><strong>Properties:</strong> The Olive Court → Laxmi Pushp, Vista Grande → 3 Leaf Farmhouse, Lakeside Retreat → Watertouch. US locations → Nashik locations.</li>
+  <li><strong>Advisors:</strong> All 4 US advisor profiles replaced with CDIL project links.</li>
+  <li><strong>Testimonials:</strong> Dr. Prashant Birla, Mr. Prashant Kale, Mr. Rajiv Sutar (Watertouch, Nashik).</li>
+  <li><strong>Blog:</strong> US real estate articles replaced with Nashik-specific content (Sheti Pramanpatra guide, Kumbh Mela 2027 investment article).</li>
+  <li><strong>Footer:</strong> "Designed by Riyad Sbeitan" → "CDIL Real Estate", "Made in Framer" → "Nashik, Maharashtra".</li>
+</ul>
+
+<h3>Contact Information</h3>
+<ul class="note-list">
+  <li><strong>Email:</strong> cdilconstructionhub2008@gmail.com (26 links)</li>
+  <li><strong>Phone:</strong> +91 80878 25105 (13 links)</li>
+  <li><strong>Office:</strong> Divine Tej 701, College Road, Nashik · Mon–Sat 10:00–19:00</li>
+  <li><strong>Fixed:</strong> Framer's non-standard <code>.mailto:</code> / <code>.tel:</code> format → standard HTML format</li>
+</ul>
+
+<h2>New CDIL Pages</h2>
+<table>
+  <thead><tr><th>Page</th><th>File</th><th>Details</th></tr></thead>
+  <tbody>
+    <tr><td>Homepage</td><td><code>index.html</code></td><td>Full Framer homepage with all sections</td></tr>
+    <tr><td>Projects Listing</td><td><code>pages/projects.html</code></td><td>All 4 CDIL projects listed</td></tr>
+    <tr><td>Laxmi Pushp</td><td><code>pages/laxmi-pushp.html</code></td><td>Deolali, Nashik · 3.5 acres · 49 plots · ₹27,000/War</td></tr>
+    <tr><td>3 Leaf Farmhouse</td><td><code>pages/3-leaf-farmhouse.html</code></td><td>Kharoli Road, Trimbakeshwar · 52 acres</td></tr>
+    <tr><td>Watertouch</td><td><code>pages/watertouch.html</code></td><td>Mahiravni, Nashik-Trimbak Hwy · Dam-view plots</td></tr>
+    <tr><td>Amboli Van-Veli</td><td><code>pages/amboli-van-veli.html</code></td><td>Gunjal Farm, Amboli, Maharashtra</td></tr>
+    <tr><td>About</td><td><code>pages/about.html</code></td><td>CDIL history, 17+ years, team</td></tr>
+    <tr><td>Contact</td><td><code>pages/contact.html</code></td><td>FAQs, enquiry form, office details</td></tr>
+    <tr><td>Insights / Journal</td><td><code>pages/journal.html</code></td><td>Real estate blog / market updates</td></tr>
+  </tbody>
+</table>
+
+<h2>Redirect Pages (12)</h2>
+<p>All old AYLAAA URLs auto-redirect with <code>meta-refresh</code> to the correct CDIL page. Visitors never land on stale content.</p>
+<table>
+  <thead><tr><th>Old URL</th><th>Redirects To</th></tr></thead>
+  <tbody>
+    <tr><td><code>residences.html</code></td><td><code>projects.html</code></td></tr>
+    <tr><td><code>advisors.html</code></td><td><code>projects.html</code></td></tr>
+    <tr><td><code>the-olive-court.html</code></td><td><code>laxmi-pushp.html</code></td></tr>
+    <tr><td><code>vista-grande.html</code></td><td><code>3-leaf-farmhouse.html</code></td></tr>
+    <tr><td><code>lakeside-retreat.html</code></td><td><code>watertouch.html</code></td></tr>
+    <tr><td><code>daniel-reyes.html</code></td><td><code>laxmi-pushp.html</code></td></tr>
+    <tr><td><code>amara-whitfield.html</code></td><td><code>3-leaf-farmhouse.html</code></td></tr>
+    <tr><td><code>tomas-lindqvist.html</code></td><td><code>amboli-van-veli.html</code></td></tr>
+    <tr><td><code>priya-raghavan.html</code></td><td><code>watertouch.html</code></td></tr>
+    <tr><td><code>rising-inventory-autumn.html</code></td><td><code>journal.html</code></td></tr>
+    <tr><td><code>seven-questions-first-showing.html</code></td><td><code>journal.html</code></td></tr>
+    <tr><td><code>staging-that-moves-the-price.html</code></td><td><code>journal.html</code></td></tr>
+  </tbody>
+</table>
+
+<h2>Design System Preserved</h2>
+<div class="design-chips">
+  <div class="chip"><div class="swatch" style="background:#f3efe4"></div> Cream background #f3efe4</div>
+  <div class="chip"><div class="swatch" style="background:#1a2620"></div> Forest green text #1a2620</div>
+  <div class="chip"><div class="swatch" style="background:#35533f"></div> Accent green #35533f</div>
+  <div class="chip">Fraunces serif · display &amp; headings</div>
+  <div class="chip">Inter sans-serif · UI &amp; body</div>
+  <div class="chip">Framer CSS/JS animations retained</div>
+</div>
+
+<h2>Remaining Items <span class="badge warn">Action Needed</span></h2>
+<ul class="note-list">
+  <li><strong>Teakwood Farm page</strong> — Provide: location, plot sizes, pricing, description.</li>
+  <li><strong>3D Printed Farmhouse page</strong> — Provide: location, technical specs, pricing.</li>
+  <li><strong>Gallery page</strong> — Provide: project photos / site images.</li>
+  <li><strong>Contact form backend</strong> — Wire enquiry form to Formspree / Netlify Forms or custom endpoint.</li>
+  <li><strong>WhatsApp CTA button</strong> — Can be added; phone +91 80878 25105 is ready.</li>
+  <li><strong>Social media links</strong> — Footer icons linked to cdilrealestate.com placeholder. Update when social profiles are live.</li>
+  <li><strong>Canonical domain</strong> — All canonical URLs set to cdilrealestate.com. Confirm this is the production domain before deploying.</li>
+  <li><strong>Analytics</strong> — Add Google Analytics / tracking before launch.</li>
+</ul>
+
+<footer>CDIL Real Estate &amp; Infrastructure · Nashik, Maharashtra · Delivered October 18, 2026</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,295 @@
+import os, sys
+
+sys.stdout.reconfigure(encoding='utf-8')
+WORKSPACE = r"d:\INTERNSHIPS\SOCIAL MEDIA MANANGMENT[SKILLNEX]\WEBSITES\CDIL-Constrution"
+os.chdir(WORKSPACE)
+
+# Generate Why Choose Us component
+why_choose_us_html = '''
+<!-- CDIL Why Choose Us Section -->
+<section class="cdil-why-choose-us" id="why-choose-us" data-framer-name="Why Choose Us">
+  <div class="cdil-why-container">
+    <div class="cdil-why-header">
+      <span class="cdil-why-eyebrow">PREMIER REAL ESTATE DEVELOPMENT</span>
+      <h2 class="cdil-why-title">Why Choose Us</h2>
+      <p class="cdil-why-subtitle">Delivering verified collector NA plots, bespoke farmhouse estates, and cutting-edge 3D printed sustainable construction in Nashik since 2008.</p>
+    </div>
+
+    <div class="cdil-why-grid">
+      <!-- 1. Years of Expertise -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Gear / Expertise combined with Person Profile -->
+            <path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/>
+            <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1Z"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Years of Expertise</h3>
+        <p class="cdil-why-card-desc">Established in 2008 with over 17 years of specialized land acquisition and master-planned development across Nashik.</p>
+      </div>
+
+      <!-- 2. Projects Delivered on Time -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Clock with forward motion / timely delivery -->
+            <path d="M12 6v6l4 2"/>
+            <path d="M3.05 11a9 9 0 1 1 .5 4"/>
+            <path d="m3 16 1-5 5 1"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Projects Delivered on Time</h3>
+        <p class="cdil-why-card-desc">Disciplined project management and engineering rigor ensuring transparent execution and reliable on-schedule handover.</p>
+      </div>
+
+      <!-- 3. Prime Locations -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Location Pin -->
+            <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/>
+            <circle cx="12" cy="10" r="3"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Prime Locations</h3>
+        <p class="cdil-why-card-desc">Carefully selected scenic parcels situated in Trimbakeshwar, dam perimeters, wine tourism corridors, and connected highways.</p>
+      </div>
+
+      <!-- 4. Trusted Reputation -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Hand holding star / medal of trust -->
+            <path d="M11 15h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 17"/>
+            <path d="m7 15 1.6-1.6c.4-.4.9-.7 1.4-.8h2"/>
+            <polygon points="12 2 13.5 5.5 17 6 14.5 8.5 15 12 12 10 9 12 9.5 8.5 7 6 10.5 5.5 12 2"/>
+            <path d="M3 21h18"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Trusted Reputation</h3>
+        <p class="cdil-why-card-desc">100% sanctioned collector NA plots with clear legal titles, verified documentation, and complete government approvals.</p>
+      </div>
+
+      <!-- 5. Customer Centric Approach -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Customer support / advisor avatar -->
+            <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+            <circle cx="9" cy="7" r="4"/>
+            <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
+            <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Customer Centric Approach</h3>
+        <p class="cdil-why-card-desc">Personalized consultation, transparent property walkthroughs, and bespoke assistance tailored to your lifestyle and investment vision.</p>
+      </div>
+
+      <!-- 6. Exceptional Amenities -->
+      <div class="cdil-why-card">
+        <div class="cdil-why-icon-circle" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Modern Architecture / Amenities -->
+            <path d="M3 21h18"/>
+            <path d="M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16"/>
+            <path d="M9 7h1"/>
+            <path d="M9 11h1"/>
+            <path d="M9 15h1"/>
+            <path d="M14 7h1"/>
+            <path d="M14 11h1"/>
+            <path d="M14 15h1"/>
+          </svg>
+        </div>
+        <h3 class="cdil-why-card-title">Exceptional Amenities</h3>
+        <p class="cdil-why-card-desc">Fully developed gated layouts featuring wide internal roads, uninterrupted water, reliable power, security, and lush open spaces.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* CDIL Why Choose Us Section Styles */
+.cdil-why-choose-us {
+  position: relative;
+  width: 100%;
+  background: radial-gradient(ellipse at 50% 0%, rgba(27, 42, 33, 0.4) 0%, rgba(13, 18, 15, 1) 70%);
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 110px 48px;
+  box-sizing: border-box;
+}
+
+.cdil-why-container {
+  max-width: 1344px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cdil-why-header {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto 64px;
+}
+
+.cdil-why-eyebrow {
+  display: inline-block;
+  font-family: var(--framer-font-family, "Inter", sans-serif);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #8aab8f;
+  margin-bottom: 14px;
+}
+
+.cdil-why-title {
+  font-family: var(--framer-font-family-serif, "Fraunces", serif);
+  font-size: clamp(2.2rem, 3.8vw, 3.1rem);
+  font-weight: 400;
+  color: #f7f7f5;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin: 0 0 16px;
+}
+
+.cdil-why-subtitle {
+  font-family: var(--framer-font-family, "Inter", sans-serif);
+  font-size: 15px;
+  line-height: 1.65;
+  color: rgba(245, 245, 243, 0.7);
+  margin: 0;
+}
+
+.cdil-why-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 18px;
+  width: 100%;
+  align-items: stretch;
+  box-sizing: border-box;
+}
+
+.cdil-why-card {
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  padding: 34px 18px 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s cubic-bezier(0.2, 0, 0.2, 1);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-sizing: border-box;
+}
+
+.cdil-why-card:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(138, 171, 143, 0.4);
+  transform: translateY(-6px);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.45);
+}
+
+.cdil-why-icon-circle {
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #243428 0%, #121a14 100%);
+  border: 1.5px solid rgba(138, 171, 143, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e4eee6;
+  margin-bottom: 20px;
+  flex-shrink: 0;
+  transition: all 0.35s cubic-bezier(0.2, 0, 0.2, 1);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35), inset 0 1px 1px rgba(255, 255, 255, 0.15);
+}
+
+.cdil-why-card:hover .cdil-why-icon-circle {
+  transform: scale(1.08);
+  border-color: #8aab8f;
+  color: #ffffff;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5), 0 0 24px rgba(138, 171, 143, 0.3);
+}
+
+.cdil-why-card-title {
+  font-family: var(--framer-font-family-serif, "Fraunces", serif);
+  font-size: 17px;
+  font-weight: 500;
+  color: #f7f7f5;
+  line-height: 1.35;
+  margin: 0 0 10px 0;
+}
+
+.cdil-why-card-desc {
+  font-family: var(--framer-font-family, "Inter", sans-serif);
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: rgba(245, 245, 243, 0.65);
+  margin: 0;
+  flex-grow: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1240px) {
+  .cdil-why-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .cdil-why-choose-us {
+    padding: 88px 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cdil-why-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  .cdil-why-choose-us {
+    padding: 68px 20px;
+  }
+  .cdil-why-icon-circle {
+    width: 68px;
+    height: 68px;
+    margin-bottom: 16px;
+  }
+  .cdil-why-icon-circle svg {
+    width: 30px;
+    height: 30px;
+  }
+  .cdil-why-card {
+    padding: 26px 14px 20px;
+  }
+  .cdil-why-card-title {
+    font-size: 15.5px;
+  }
+  .cdil-why-card-desc {
+    font-size: 12px;
+  }
+  .cdil-why-header {
+    margin-bottom: 44px;
+  }
+}
+
+@media (max-width: 480px) {
+  .cdil-why-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .cdil-why-card {
+    padding: 28px 18px 22px;
+  }
+}
+</style>
+'''
+
+with open("scratch/why_choose_us_component.html", "w", encoding="utf-8") as f:
+    f.write(why_choose_us_html)
+
+print("Generated Why Choose Us component successfully.")

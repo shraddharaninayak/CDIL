@@ -1,0 +1,173 @@
+/* ================================================================
+   CDIL Theme Toggle — Bright Mode / Night Mode
+   Default (no attribute or data-theme="dark") = dark / night mode
+   html[data-theme="light"] = bright mode
+   ================================================================
+
+   Strategy: Override Framer's CSS custom property tokens on body.
+   These tokens drive every background, text colour, and border in
+   the Framer-generated CSS. Overriding them here beats the
+   @media (prefers-color-scheme: dark) block because
+   html[data-theme] body (specificity 0,1,2) > body (0,0,1).
+   ================================================================ */
+
+/* ----------------------------------------------------------------
+   Smooth transitions on major structural elements
+   ---------------------------------------------------------------- */
+body {
+  transition: background-color 0.35s ease, background 0.35s ease;
+}
+
+[data-framer-root],
+.framer-0It0v,
+.framer-1hju704,
+.framer-ix4pye,
+.framer-1joolo2,
+.cdil-why-choose-us,
+.cdil-why-card,
+.cdil-why-icon-circle {
+  transition: background 0.35s ease, background-color 0.35s ease,
+              border-color 0.35s ease, box-shadow 0.35s ease,
+              color 0.35s ease !important;
+}
+
+.cdil-why-eyebrow, .cdil-why-title, .cdil-why-subtitle,
+.cdil-why-card-title, .cdil-why-card-desc,
+.framer-text, p, h1, h2, h3, h4, h5, h6 {
+  transition: color 0.35s ease !important;
+}
+
+/* ----------------------------------------------------------------
+   BRIGHT MODE — restore warm-ivory palette
+   Mirrors the body token values from OS light mode (Framer default)
+   ---------------------------------------------------------------- */
+html[data-theme="light"] body {
+  --token-ed5af0b1-8875-4b9b-a8d0-dd29f7c8c608: #f3efe4;
+  --token-c941f91c-6e6d-4ea5-b219-96bcb55ec302: #faf7ef;
+  --token-7ef4c794-a934-4238-b63d-afc17eed3470: #e5e3da;
+  --token-3d4ee4b7-308a-4377-8498-a666926a0f1f: #1b2a21;
+  --token-025422ea-d283-4879-b332-741cb1c834c7: #1a2620;
+  --token-b8cfd3da-418b-4999-a7f7-4bf97baf1624: #1a2620bd;
+  --token-2bc6e7d1-a9ca-4702-8fc4-175e27bbed41: #1a262080;
+  --token-ba881da2-e826-4088-9298-44580ededb79: #efebe0;
+  --token-39afa882-6f84-4771-a9c6-41b1010d45fd: #efebe0ad;
+  --token-d34888b7-6c91-4dbc-95a1-370fba2352b1: #1a262029;
+  --token-c3b700a0-e034-4105-8e70-9eb489aa7919: #1a262052;
+  --token-188a3d45-95fd-4365-8a52-07e39da3c218: #35533f;
+  --token-9645f11c-bb72-43fb-a365-fbce5f09d1f7: #f3efe4;
+  --token-5f60b2ed-a551-4dc8-bf48-3dd71455f574: #1b2a21;
+  --token-cd99b26a-3e9a-4aae-9255-455ee23a6817: #f3efe4;
+  --token-5b08f2e3-d536-4202-8870-3e59b36a9477: #f3efe49e;
+}
+
+/* ----------------------------------------------------------------
+   NIGHT MODE — force dark palette even on light-OS users
+   Mirrors the @media (prefers-color-scheme: dark) token overrides
+   ---------------------------------------------------------------- */
+html[data-theme="dark"] body {
+  --token-ed5af0b1-8875-4b9b-a8d0-dd29f7c8c608: #0a0b09;
+  --token-c941f91c-6e6d-4ea5-b219-96bcb55ec302: #101310;
+  --token-7ef4c794-a934-4238-b63d-afc17eed3470: #161a14;
+  --token-3d4ee4b7-308a-4377-8498-a666926a0f1f: #141812;
+  --token-025422ea-d283-4879-b332-741cb1c834c7: #f2efe6;
+  --token-b8cfd3da-418b-4999-a7f7-4bf97baf1624: #f2efe6b3;
+  --token-2bc6e7d1-a9ca-4702-8fc4-175e27bbed41: #f2efe673;
+  --token-ba881da2-e826-4088-9298-44580ededb79: #f2efe6;
+  --token-39afa882-6f84-4771-a9c6-41b1010d45fd: #f2efe6ad;
+  --token-d34888b7-6c91-4dbc-95a1-370fba2352b1: #f2efe621;
+  --token-c3b700a0-e034-4105-8e70-9eb489aa7919: #f2efe642;
+  --token-188a3d45-95fd-4365-8a52-07e39da3c218: #a3b29a;
+  --token-9645f11c-bb72-43fb-a365-fbce5f09d1f7: #0a0b09;
+  --token-5f60b2ed-a551-4dc8-bf48-3dd71455f574: #f2efe6;
+  --token-cd99b26a-3e9a-4aae-9255-455ee23a6817: #0a0b09;
+  --token-5b08f2e3-d536-4202-8870-3e59b36a9477: #0c0e0b85;
+}
+
+/* ----------------------------------------------------------------
+   Why Choose Us — custom dark gradient section
+   Uses hardcoded colours (not tokens), so needs explicit overrides
+   ---------------------------------------------------------------- */
+html[data-theme="light"] .cdil-why-choose-us {
+  background: linear-gradient(180deg, rgb(247, 244, 237) 0%, rgb(243, 239, 228) 100%) !important;
+  border-top-color: rgba(26, 38, 32, 0.1) !important;
+  border-bottom-color: rgba(26, 38, 32, 0.1) !important;
+}
+
+html[data-theme="light"] .cdil-why-eyebrow { color: rgb(53, 83, 63) !important; }
+html[data-theme="light"] .cdil-why-title   { color: rgb(26, 38, 32) !important; }
+html[data-theme="light"] .cdil-why-subtitle { color: rgba(26, 38, 32, 0.65) !important; }
+
+html[data-theme="light"] .cdil-why-card {
+  background: rgba(255, 253, 249, 0.88) !important;
+  border-color: rgba(53, 83, 63, 0.14) !important;
+  box-shadow: 0 2px 14px rgba(26, 38, 32, 0.06) !important;
+}
+html[data-theme="light"] .cdil-why-card:hover {
+  background: rgb(255, 255, 255) !important;
+  border-color: rgba(53, 83, 63, 0.32) !important;
+  box-shadow: 0 14px 36px rgba(26, 38, 32, 0.1) !important;
+}
+
+html[data-theme="light"] .cdil-why-icon-circle {
+  background: radial-gradient(circle at 35% 35%, rgb(241, 237, 228) 0%, rgb(232, 228, 217) 100%) !important;
+  border-color: rgba(53, 83, 63, 0.22) !important;
+  color: rgb(53, 83, 63) !important;
+  box-shadow: 0 4px 14px rgba(26, 38, 32, 0.08) !important;
+}
+html[data-theme="light"] .cdil-why-card:hover .cdil-why-icon-circle {
+  border-color: rgb(53, 83, 63) !important;
+  color: rgb(26, 38, 32) !important;
+  box-shadow: 0 8px 22px rgba(26, 38, 32, 0.13) !important;
+}
+
+html[data-theme="light"] .cdil-why-card-title { color: rgb(26, 38, 32) !important; }
+html[data-theme="light"] .cdil-why-card-desc  { color: rgba(26, 38, 32, 0.62) !important; }
+
+/* ----------------------------------------------------------------
+   Why Choose Us dark — restore dark gradient when explicit night
+   ---------------------------------------------------------------- */
+html[data-theme="dark"] .cdil-why-choose-us {
+  background: radial-gradient(ellipse at 50% 0%, rgba(27, 42, 33, 0.4) 0%, rgba(13, 18, 15, 1) 70%) !important;
+  border-top-color: rgba(255, 255, 255, 0.06) !important;
+  border-bottom-color: rgba(255, 255, 255, 0.06) !important;
+}
+html[data-theme="dark"] .cdil-why-card {
+  background: rgba(255, 255, 255, 0.025) !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+/* ----------------------------------------------------------------
+   Theme toggle button — sizing & icon handled by JS
+   ---------------------------------------------------------------- */
+button[aria-label="Switch to bright mode"],
+button[aria-label="Switch to night mode"] {
+  flex-shrink: 0;
+}
+
+/* ----------------------------------------------------------------
+   Mobile layout fixes — project listing pages
+   ---------------------------------------------------------------- */
+@media (max-width: 809.98px) {
+  /* Root container: allow full viewport width, no fixed 390px cap */
+  .framer-NbQct.framer-67z4u0 {
+    width: 100% !important;
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Card image: 340px is nearly square on mobile — reduce to 220px */
+  .framer-NbQct .framer-8gewg3 {
+    height: 220px !important;
+  }
+
+  /* Project grid: allow column to shrink below 280px on very narrow screens */
+  .framer-NbQct .framer-111okhc {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Filter button row: wrap neatly, slightly smaller text */
+  .rf-c-R6malp {
+    font-size: 13px !important;
+    padding: 7px 14px !important;
+  }
+}
