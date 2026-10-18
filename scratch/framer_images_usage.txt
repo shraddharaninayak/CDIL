@@ -1,0 +1,388 @@
+
+====================
+Image: 0Qm4OY4UcG1uVN9g8PnmPNocxc.jpg (Used in 0 places)
+
+====================
+Image: 1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg (Used in 24 places)
+  [index.html]: ce for over 17 years.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [index.html]: e for over 17 years.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\3d-printed-farmhouse.html]: expertise in Nashik.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\3d-printed-farmhouse.html]: expertise in Nashik.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\about.html]: expertise in Nashik.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\about.html]: expertise in Nashik.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\contact.html]: hin one business day.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\contact.html]: in one business day.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\gallery.html]: expertise in Nashik.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\gallery.html]: expertise in Nashik.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\journal.html]: sors doing the deals.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\journal.html]: ors doing the deals.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\news-updates.html]: expertise in Nashik.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\news-updates.html]: expertise in Nashik.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\page.html]: ce for over 17 years.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\page.html]: e for over 17 years.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\privacy.html]: how to make us stop.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\privacy.html]: how to make us stop.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\projects.html]: or who knows it best.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\projects.html]: r who knows it best.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\terms.html]: ct us to act for you.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\terms.html]: t us to act for you.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+  [pages\video-gallery.html]: expertise in Nashik.">     <meta property="og:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg">     <!-- X -->     <meta name="twitter:card" content="summary_large
+  [pages\video-gallery.html]: expertise in Nashik.">     <meta name="twitter:image" content="https://framerusercontent.com/images/1WE8VVvhM5ILXM8zlwp4JTbDcg.jpg"> 	 	 	<script>try{if(localStorage.getItem("__framer_force_showing_ed
+
+====================
+Image: 2TOsdQ0l1UFLP08nIBuvp5YE0.jpg (Used in 5 places)
+  [pages\projects.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconten
+  [pages\projects.html]: 08nIBuvp5YE0.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercont
+  [pages\projects.html]: nIBuvp5YE0.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercont
+  [pages\projects.html]: nIBuvp5YE0.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg?width=2560&height=1429 2560w" src="../images/2TOsdQ0l1UFLP08nIBuvp5YE0
+  [pages\projects.html]: erusercontent.com/images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg?width=2560&height=1429 2560w" src="../images/2TOsdQ0l1UFLP08nIBuvp5YE0.jpg" alt="The Alder House — family home among mature alder trees" style="d
+
+====================
+Image: 3fSSK360dEzMizQHdrXt1Dbhw0.jpg (Used in 9 places)
+  [pages\amboli-van-veli.html]: i, Maharashtra | CDIL">     <meta property="og:image" content="https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429">     <!-- X -->     <meta name="twitter:card"
+  [pages\amboli-van-veli.html]: , Maharashtra | CDIL">     <meta name="twitter:image" content="https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429"> 	 	 	<script>try{if(localStorage.getItem("__
+  [pages\amboli-van-veli.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\amboli-van-veli.html]: QHdrXt1Dbhw0.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\amboli-van-veli.html]: drXt1Dbhw0.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\amboli-van-veli.html]: drXt1Dbhw0.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429 2560w" src="../images/3fSSK360dEzMizQHdrXt1Dbh
+  [pages\amboli-van-veli.html]: rusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429 2560w" src="../images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg" alt="Watertouch — glass pavilion set back from the water behind cypr
+  [pages\watertouch.html]: on with private dock.">     <meta property="og:image" content="https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429">     <!-- X -->     <meta name="twitter:card"
+  [pages\watertouch.html]: n with private dock.">     <meta name="twitter:image" content="https://framerusercontent.com/images/3fSSK360dEzMizQHdrXt1Dbhw0.jpg?width=2560&height=1429"> 	 	 	<script>try{if(localStorage.getItem("__
+
+====================
+Image: 44IzJSemp73a6BgdeKY6t9A1Xk.jpg (Used in 5 places)
+  [pages\3-leaf-farmhouse.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg?scale-down-to=512&width=2400&height=1326 512w,https://frameruserconte
+  [pages\3-leaf-farmhouse.html]: gdeKY6t9A1Xk.jpg?scale-down-to=512&width=2400&height=1326 512w,https://framerusercontent.com/images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg?scale-down-to=1024&width=2400&height=1326 1024w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: eKY6t9A1Xk.jpg?scale-down-to=1024&width=2400&height=1326 1024w,https://framerusercontent.com/images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg?scale-down-to=2048&width=2400&height=1326 2048w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: eKY6t9A1Xk.jpg?scale-down-to=2048&width=2400&height=1326 2048w,https://framerusercontent.com/images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg?width=2400&height=1326 2400w" src="../images/44IzJSemp73a6BgdeKY6t9A1
+  [pages\3-leaf-farmhouse.html]: rusercontent.com/images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg?width=2400&height=1326 2400w" src="../images/44IzJSemp73a6BgdeKY6t9A1Xk.jpg" alt="3 Leaf Farmhouse — open terrace framing the valley view" style=
+
+====================
+Image: 6gAYT1fHxFFVy3Ei5y2n9JlNs.jpg (Used in 2 places)
+  [pages\laxmi-pushp.html]: road infrastructure.">     <meta property="og:image" content="https://framerusercontent.com/images/6gAYT1fHxFFVy3Ei5y2n9JlNs.jpg?width=2560&height=1429">     <!-- X -->     <meta name="twitter:card"
+  [pages\laxmi-pushp.html]: road infrastructure.">     <meta name="twitter:image" content="https://framerusercontent.com/images/6gAYT1fHxFFVy3Ei5y2n9JlNs.jpg?width=2560&height=1429"> 	 	 	<script>try{if(localStorage.getItem("__f
+
+====================
+Image: 7Ob5jUxK0GfjhrfOQIFfzBI668o.jpg (Used in 2 places)
+  [pages\3-leaf-farmhouse.html]: ered over the valley.">     <meta property="og:image" content="https://framerusercontent.com/images/7Ob5jUxK0GfjhrfOQIFfzBI668o.jpg?width=2560&height=1429">     <!-- X -->     <meta name="twitter:card
+  [pages\3-leaf-farmhouse.html]: red over the valley.">     <meta name="twitter:image" content="https://framerusercontent.com/images/7Ob5jUxK0GfjhrfOQIFfzBI668o.jpg?width=2560&height=1429"> 	 	 	<script>try{if(localStorage.getItem("_
+
+====================
+Image: AjQp2dUVDzqj5LSzanz06FUWbU.jpg (Used in 8 places)
+  [pages\amboli-van-veli.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\amboli-van-veli.html]: Szanz06FUWbU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\amboli-van-veli.html]: anz06FUWbU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?width=1600&height=1067 1600w" src="../images/AjQp2dUVDzqj5LSzanz06FUW
+  [pages\amboli-van-veli.html]: rusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?width=1600&height=1067 1600w" src="../images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg" alt="Watertouch — calm interior with views to the lake" style="displ
+  [pages\watertouch.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\watertouch.html]: Szanz06FUWbU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\watertouch.html]: anz06FUWbU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?width=1600&height=1067 1600w" src="../images/AjQp2dUVDzqj5LSzanz06FUW
+  [pages\watertouch.html]: rusercontent.com/images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg?width=1600&height=1067 1600w" src="../images/AjQp2dUVDzqj5LSzanz06FUWbU.jpg" alt="Watertouch — calm interior with views to the lake" style="displ
+
+====================
+Image: HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg (Used in 50 places)
+  [index.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [index.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [index.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [index.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="./images/HrKKcFQ3DVsJ9P9jkiiXZh5ju
+  [index.html]: erusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="./images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\3d-printed-farmhouse.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\3d-printed-farmhouse.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\3d-printed-farmhouse.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\3d-printed-farmhouse.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\3d-printed-farmhouse.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\about.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\about.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\about.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\about.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\about.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\amboli-van-veli.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\amboli-van-veli.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\amboli-van-veli.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\amboli-van-veli.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\amboli-van-veli.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="akeside Retreat — the pavilion lit at dusk" style="display:bloc
+  [pages\gallery.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\gallery.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\gallery.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\gallery.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\gallery.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\journal.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\journal.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\journal.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\journal.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\journal.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\news-updates.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\news-updates.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\news-updates.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\news-updates.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\news-updates.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\page.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\page.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\page.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\page.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\page.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\video-gallery.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\video-gallery.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\video-gallery.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\video-gallery.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\video-gallery.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="A lakeside home lit from within at dusk" style="display: block;
+  [pages\watertouch.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\watertouch.html]: 9jkiiXZh5juE.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\watertouch.html]: kiiXZh5juE.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\watertouch.html]: kiiXZh5juE.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5j
+  [pages\watertouch.html]: rusercontent.com/images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg?width=2560&height=1429 2560w" src="../images/HrKKcFQ3DVsJ9P9jkiiXZh5juE.jpg" alt="akeside Retreat — the pavilion lit at dusk" style="display:bloc
+
+====================
+Image: IjxtO3SV152XjF7XWHpYAOLUJMg.jpg (Used in 4 places)
+  [pages\contact.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/IjxtO3SV152XjF7XWHpYAOLUJMg.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercont
+  [pages\contact.html]: XWHpYAOLUJMg.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/IjxtO3SV152XjF7XWHpYAOLUJMg.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://frameruserco
+  [pages\contact.html]: HpYAOLUJMg.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/IjxtO3SV152XjF7XWHpYAOLUJMg.jpg?width=1600&height=1067 1600w" src="../images/IjxtO3SV152XjF7XWHpYAOL
+  [pages\contact.html]: usercontent.com/images/IjxtO3SV152XjF7XWHpYAOLUJMg.jpg?width=1600&height=1067 1600w" src="../images/IjxtO3SV152XjF7XWHpYAOLUJMg.jpg" alt="The CDIL office — oak table, bookshelves and tall windows" sty
+
+====================
+Image: KcexKs0xLJniVsGT2OwYYSwL4I.jpg (Used in 12 places)
+  [index.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [index.html]: GT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [index.html]: 2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="./images/KcexKs0xLJniVsGT2OwYYSwL4
+  [index.html]: erusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="./images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg" alt="Buyers viewing a light-filled living room at a first showing" s
+  [pages\journal.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\journal.html]: GT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\journal.html]: 2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="../images/KcexKs0xLJniVsGT2OwYYSwL
+  [pages\journal.html]: rusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="../images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg" alt="Buyers viewing a light-filled living room at a first showing" s
+  [pages\page.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\page.html]: GT2OwYYSwL4I.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\page.html]: 2OwYYSwL4I.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="../images/KcexKs0xLJniVsGT2OwYYSwL
+  [pages\page.html]: rusercontent.com/images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg?width=1600&height=1067 1600w" src="../images/KcexKs0xLJniVsGT2OwYYSwL4I.jpg" alt="Buyers viewing a light-filled living room at a first showing" s
+
+====================
+Image: NcSzfG2MOf7GEGphpuQSIR7Anro.jpg (Used in 0 places)
+
+====================
+Image: O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg (Used in 20 places)
+  [index.html]: ute;inset:0;opacity:0;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:1"><img src="./images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqID
+  [index.html]: :1"><img src="./images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [index.html]: wDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [index.html]: euBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [index.html]: euBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" alt="Watertouch — glass pavilion lookin
+  [pages\amboli-van-veli.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\amboli-van-veli.html]: wDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\amboli-van-veli.html]: euBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\amboli-van-veli.html]: euBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" src="../images/O5kbDDgCLmTDDKwDeuBnqIDG
+  [pages\amboli-van-veli.html]: rusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" src="../images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" alt="Watertouch — glazed main room facing the water" style="display:
+  [pages\page.html]: te;inset:0;opacity:0;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:1"><img src="../images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqID
+  [pages\page.html]: 1"><img src="../images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\page.html]: wDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\page.html]: euBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\page.html]: euBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" alt="Watertouch — glass pavilion lookin
+  [pages\watertouch.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\watertouch.html]: wDeuBnqIDG0Y.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\watertouch.html]: euBnqIDG0Y.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\watertouch.html]: euBnqIDG0Y.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" src="../images/O5kbDDgCLmTDDKwDeuBnqIDG
+  [pages\watertouch.html]: rusercontent.com/images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg?width=2560&height=1429 2560w" src="../images/O5kbDDgCLmTDDKwDeuBnqIDG0Y.jpg" alt="Watertouch — glazed main room facing the water" style="display:
+
+====================
+Image: PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg (Used in 5 places)
+  [pages\projects.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\projects.html]: nSuyR6cyq5ss.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\projects.html]: uyR6cyq5ss.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\projects.html]: uyR6cyq5ss.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg?width=2560&height=1429 2560w" src="../images/PC9CvBmAqTkuV7nSuyR6cyq5
+  [pages\projects.html]: rusercontent.com/images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg?width=2560&height=1429 2560w" src="../images/PC9CvBmAqTkuV7nSuyR6cyq5ss.jpg" alt="The Quarry — stone kitchen with a sculpted island" style="displ
+
+====================
+Image: UoWwFB4OyFidOYYZHb9oAWuk.jpg (Used in 0 places)
+
+====================
+Image: XdflLOICap9i3yayush9YNU6o.jpg (Used in 10 places)
+  [index.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconten
+  [index.html]: yayush9YNU6o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercont
+  [index.html]: yush9YNU6o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercont
+  [index.html]: yush9YNU6o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?width=2560&height=1429 2560w" src="./images/XdflLOICap9i3yayush9YNU6o.
+  [index.html]: merusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?width=2560&height=1429 2560w" src="./images/XdflLOICap9i3yayush9YNU6o.jpg" alt="Double-height entrance hall in natural stone" style="display: bl
+  [pages\page.html]: -width: 1439.98px) 100vw, (max-width: 809.98px) 100vw" srcset="https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconten
+  [pages\page.html]: yayush9YNU6o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercont
+  [pages\page.html]: yush9YNU6o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercont
+  [pages\page.html]: yush9YNU6o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?width=2560&height=1429 2560w" src="../images/XdflLOICap9i3yayush9YNU6o
+  [pages\page.html]: erusercontent.com/images/XdflLOICap9i3yayush9YNU6o.jpg?width=2560&height=1429 2560w" src="../images/XdflLOICap9i3yayush9YNU6o.jpg" alt="Double-height entrance hall in natural stone" style="display: bl
+
+====================
+Image: XiHIAV0HFUSKlrC1YLOOARfPj4.jpg (Used in 3 places)
+  [pages\laxmi-pushp.html]: ax-width: 1439.98px) 60px, (max-width: 809.98px) 60px" srcset="https://framerusercontent.com/images/XiHIAV0HFUSKlrC1YLOOARfPj4.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercont
+  [pages\laxmi-pushp.html]: 1YLOOARfPj4.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercontent.com/images/XiHIAV0HFUSKlrC1YLOOARfPj4.jpg?width=1194&height=1600 1194w" src="../images/XiHIAV0HFUSKlrC1YLOOARfP
+  [pages\laxmi-pushp.html]: rusercontent.com/images/XiHIAV0HFUSKlrC1YLOOARfPj4.jpg?width=1194&height=1600 1194w" src="../images/XiHIAV0HFUSKlrC1YLOOARfPj4.jpg" alt="Portrait of Watertouch, buyer's advisor" style="display:block;w
+
+====================
+Image: Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg (Used in 15 places)
+  [index.html]: ute;inset:0;opacity:0;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:1"><img src="./images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg" srcset="https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR
+  [index.html]: 1"><img src="./images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg" srcset="https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercont
+  [index.html]: XRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://frameruserco
+  [index.html]: wTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://frameruserco
+  [index.html]: wTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?width=2560&height=1429 2560w" alt="3 Leaf Farmhouse — glass living r
+  [pages\laxmi-pushp.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercont
+  [pages\laxmi-pushp.html]: XRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://frameruserco
+  [pages\laxmi-pushp.html]: wTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://frameruserco
+  [pages\laxmi-pushp.html]: wTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?width=2560&height=1429 2560w" src="../images/Xqe3z10c8F84k5DXRwTjeR3
+  [pages\laxmi-pushp.html]: usercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?width=2560&height=1429 2560w" src="../images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg" alt="Laxmi Pushp — limestone facade at golden hour" style="display:
+  [pages\page.html]: te;inset:0;opacity:0;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:1"><img src="../images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg" srcset="https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR
+  [pages\page.html]: "><img src="../images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg" srcset="https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercont
+  [pages\page.html]: XRwTjeR3WYCw.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://frameruserco
+  [pages\page.html]: wTjeR3WYCw.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://frameruserco
+  [pages\page.html]: wTjeR3WYCw.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/Xqe3z10c8F84k5DXRwTjeR3WYCw.jpg?width=2560&height=1429 2560w" alt="3 Leaf Farmhouse — glass living r
+
+====================
+Image: ZQv8BKsWPC72tyN8aojAMg1Xg.jpg (Used in 0 places)
+
+====================
+Image: ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg (Used in 15 places)
+  [index.html]: ute;inset:0;opacity:1;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:2"><img src="./images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg" srcset="https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXG
+  [index.html]: :2"><img src="./images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg" srcset="https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [index.html]: 0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [index.html]: XLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [index.html]: XLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?width=2560&height=1429 2560w" alt="Laxmi Pushp — stone and timber res
+  [pages\3-leaf-farmhouse.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\3-leaf-farmhouse.html]: 0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: XLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: XLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?width=2560&height=1429 2560w" src="../images/ZiuHJRK3VDqMlK0bXLemGXGx
+  [pages\3-leaf-farmhouse.html]: rusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?width=2560&height=1429 2560w" src="../images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg" alt="3 Leaf Farmhouse — glass living room cantilevered over the vall
+  [pages\page.html]: te;inset:0;opacity:1;transition:opacity 1.8s cubic-bezier(.4,0,.2,1);z-index:2"><img src="../images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg" srcset="https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXG
+  [pages\page.html]: 2"><img src="../images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg" srcset="https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\page.html]: 0bXLemGXGx8o.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\page.html]: XLemGXGx8o.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\page.html]: XLemGXGx8o.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/ZiuHJRK3VDqMlK0bXLemGXGx8o.jpg?width=2560&height=1429 2560w" alt="Laxmi Pushp — stone and timber res
+
+====================
+Image: c2ENN0w6FyOgaTz5OytE1ye0flo.jpg (Used in 3 places)
+  [pages\3-leaf-farmhouse.html]: ax-width: 1439.98px) 60px, (max-width: 809.98px) 60px" srcset="https://framerusercontent.com/images/c2ENN0w6FyOgaTz5OytE1ye0flo.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: OytE1ye0flo.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercontent.com/images/c2ENN0w6FyOgaTz5OytE1ye0flo.jpg?width=1194&height=1600 1194w" src="../images/c2ENN0w6FyOgaTz5OytE1ye
+  [pages\3-leaf-farmhouse.html]: usercontent.com/images/c2ENN0w6FyOgaTz5OytE1ye0flo.jpg?width=1194&height=1600 1194w" src="../images/c2ENN0w6FyOgaTz5OytE1ye0flo.jpg" alt="Portrait of Amboli Van-Veli, luxury specialist" style="display
+
+====================
+Image: cCYedN2F79ejMcgWgXCOfU73a8.jpg (Used in 4 places)
+  [pages\laxmi-pushp.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/cCYedN2F79ejMcgWgXCOfU73a8.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\laxmi-pushp.html]: gWgXCOfU73a8.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/cCYedN2F79ejMcgWgXCOfU73a8.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\laxmi-pushp.html]: gXCOfU73a8.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/cCYedN2F79ejMcgWgXCOfU73a8.jpg?width=1600&height=1067 1600w" src="../images/cCYedN2F79ejMcgWgXCOfU73
+  [pages\laxmi-pushp.html]: rusercontent.com/images/cCYedN2F79ejMcgWgXCOfU73a8.jpg?width=1600&height=1067 1600w" src="../images/cCYedN2F79ejMcgWgXCOfU73a8.jpg" alt="Laxmi Pushp — courtyard with mature olive trees" style="display
+
+====================
+Image: gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg (Used in 5 places)
+  [pages\projects.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg?scale-down-to=512&width=2560&height=1429 512w,https://frameruserconte
+  [pages\projects.html]: Ehh4xjXpPCPQ.jpg?scale-down-to=512&width=2560&height=1429 512w,https://framerusercontent.com/images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercon
+  [pages\projects.html]: h4xjXpPCPQ.jpg?scale-down-to=1024&width=2560&height=1429 1024w,https://framerusercontent.com/images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercon
+  [pages\projects.html]: h4xjXpPCPQ.jpg?scale-down-to=2048&width=2560&height=1429 2048w,https://framerusercontent.com/images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg?width=2560&height=1429 2560w" src="../images/gynlhAwJLfMLFJEhh4xjXpPC
+  [pages\projects.html]: rusercontent.com/images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg?width=2560&height=1429 2560w" src="../images/gynlhAwJLfMLFJEhh4xjXpPCPQ.jpg" alt="Linen House — soft neutral living room with linen textures" sty
+
+====================
+Image: hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg (Used in 4 places)
+  [pages\laxmi-pushp.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercont
+  [pages\laxmi-pushp.html]: yUy2KSsGrqDE.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://frameruserco
+  [pages\laxmi-pushp.html]: y2KSsGrqDE.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg?width=1600&height=1067 1600w" src="../images/hntiEJ8LUjfWfuFyUy2KSsG
+  [pages\laxmi-pushp.html]: usercontent.com/images/hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg?width=1600&height=1067 1600w" src="../images/hntiEJ8LUjfWfuFyUy2KSsGrqDE.jpg" alt="Laxmi Pushp — principal room opening onto the developed road i
+
+====================
+Image: htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg (Used in 4 places)
+  [pages\about.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercont
+  [pages\about.html]: a8i9Qo4yCU8w.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://frameruserco
+  [pages\about.html]: i9Qo4yCU8w.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg?width=2000&height=1105 2000w" src="../images/htqVoCdq8HKHyjSa8i9Qo4y
+  [pages\about.html]: usercontent.com/images/htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg?width=2000&height=1105 2000w" src="../images/htqVoCdq8HKHyjSa8i9Qo4yCU8w.jpg" alt="-height room with oak floors and a glass wall onto the forest"
+
+====================
+Image: kLLCGbGu6fjY89G5W0bfPMNl6HA.png (Used in 32 places)
+  [index.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [index.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\3-leaf-farmhouse.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\3-leaf-farmhouse.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\3d-printed-farmhouse.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\3d-printed-farmhouse.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\about.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\about.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\amboli-van-veli.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\amboli-van-veli.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\contact.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\contact.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\gallery.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\gallery.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\journal.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\journal.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\laxmi-pushp.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\laxmi-pushp.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\news-updates.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\news-updates.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\page.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\page.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\privacy.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\privacy.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\projects.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\projects.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\terms.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\terms.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\video-gallery.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\video-gallery.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+  [pages\watertouch.html]: HGZbrv3md68gHM/searchIndex-InjCKM1HqX5u.json">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: light)">     <link href="h
+  [pages\watertouch.html]: ="icon" media="(prefers-color-scheme: light)">     <link href="https://framerusercontent.com/images/kLLCGbGu6fjY89G5W0bfPMNl6HA.png" rel="icon" media="(prefers-color-scheme: dark)">     <!-- Open Grap
+
+====================
+Image: rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg (Used in 12 places)
+  [index.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [index.html]: VcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [index.html]: J7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="./images/rURwvrDaaU0CEAVcJ7aKoh4CF
+  [index.html]: erusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="./images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg" alt="Calmly staged dining room with warm, even light" style="display
+  [pages\journal.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\journal.html]: VcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\journal.html]: J7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="../images/rURwvrDaaU0CEAVcJ7aKoh4C
+  [pages\journal.html]: rusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="../images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg" alt="Calmly staged dining room with warm, even light" style="display
+  [pages\page.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\page.html]: VcJ7aKoh4CFo.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\page.html]: J7aKoh4CFo.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="../images/rURwvrDaaU0CEAVcJ7aKoh4C
+  [pages\page.html]: rusercontent.com/images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg?width=1600&height=1067 1600w" src="../images/rURwvrDaaU0CEAVcJ7aKoh4CFo.jpg" alt="Calmly staged dining room with warm, even light" style="display
+
+====================
+Image: uCarZ02wIibfZsAt8yCmnDEAwk.jpg (Used in 6 places)
+  [pages\amboli-van-veli.html]: ax-width: 1439.98px) 60px, (max-width: 809.98px) 60px" srcset="https://framerusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercont
+  [pages\amboli-van-veli.html]: t8yCmnDEAwk.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?width=1194&height=1600 1194w" src="../images/uCarZ02wIibfZsAt8yCmnDEA
+  [pages\amboli-van-veli.html]: rusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?width=1194&height=1600 1194w" src="../images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg" alt="Portrait of 3 Leaf Farmhouse, senior advisor" style="display:bl
+  [pages\watertouch.html]: ax-width: 1439.98px) 60px, (max-width: 809.98px) 60px" srcset="https://framerusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercont
+  [pages\watertouch.html]: t8yCmnDEAwk.jpg?scale-down-to=1024&width=1194&height=1600 764w,https://framerusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?width=1194&height=1600 1194w" src="../images/uCarZ02wIibfZsAt8yCmnDEA
+  [pages\watertouch.html]: rusercontent.com/images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg?width=1194&height=1600 1194w" src="../images/uCarZ02wIibfZsAt8yCmnDEAwk.jpg" alt="Portrait of 3 Leaf Farmhouse, senior advisor" style="display:bl
+
+====================
+Image: up3HHBNHrsLu5dUK10kakAq7Y.jpg (Used in 20 places)
+  [pages\3d-printed-farmhouse.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://frameruserconten
+  [pages\3d-printed-farmhouse.html]: dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercont
+  [pages\3d-printed-farmhouse.html]: K10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y
+  [pages\3d-printed-farmhouse.html]: erusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y.jpg" alt="A low timber residence in misty grassland at the edge of a fores
+  [pages\about.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://frameruserconten
+  [pages\about.html]: dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercont
+  [pages\about.html]: K10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y
+  [pages\about.html]: erusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y.jpg" alt="A low timber residence in misty grassland at the edge of a fores
+  [pages\gallery.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://frameruserconten
+  [pages\gallery.html]: dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercont
+  [pages\gallery.html]: K10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y
+  [pages\gallery.html]: erusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y.jpg" alt="A low timber residence in misty grassland at the edge of a fores
+  [pages\news-updates.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://frameruserconten
+  [pages\news-updates.html]: dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercont
+  [pages\news-updates.html]: K10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y
+  [pages\news-updates.html]: erusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y.jpg" alt="A low timber residence in misty grassland at the edge of a fores
+  [pages\video-gallery.html]: 4px), (max-width: 809.98px) min(100vw - 40px, 1344px)" srcset="https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://frameruserconten
+  [pages\video-gallery.html]: dUK10kakAq7Y.jpg?scale-down-to=512&width=2000&height=1105 512w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercont
+  [pages\video-gallery.html]: K10kakAq7Y.jpg?scale-down-to=1024&width=2000&height=1105 1024w,https://framerusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y
+  [pages\video-gallery.html]: erusercontent.com/images/up3HHBNHrsLu5dUK10kakAq7Y.jpg?width=2000&height=1105 2000w" src="../images/up3HHBNHrsLu5dUK10kakAq7Y.jpg" alt="A low timber residence in misty grassland at the edge of a fores
+
+====================
+Image: uzcv3F3dlHJZ9GsmosUxczA3lU.jpg (Used in 4 places)
+  [pages\3-leaf-farmhouse.html]: idth: 809.98px) max(min(100vw - 40px, 1344px), 280px)" srcset="https://framerusercontent.com/images/uzcv3F3dlHJZ9GsmosUxczA3lU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://frameruserconte
+  [pages\3-leaf-farmhouse.html]: smosUxczA3lU.jpg?scale-down-to=512&width=1600&height=1067 512w,https://framerusercontent.com/images/uzcv3F3dlHJZ9GsmosUxczA3lU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercon
+  [pages\3-leaf-farmhouse.html]: osUxczA3lU.jpg?scale-down-to=1024&width=1600&height=1067 1024w,https://framerusercontent.com/images/uzcv3F3dlHJZ9GsmosUxczA3lU.jpg?width=1600&height=1067 1600w" src="../images/uzcv3F3dlHJZ9GsmosUxczA3
+  [pages\3-leaf-farmhouse.html]: rusercontent.com/images/uzcv3F3dlHJZ9GsmosUxczA3lU.jpg?width=1600&height=1067 1600w" src="../images/uzcv3F3dlHJZ9GsmosUxczA3lU.jpg" alt="3 Leaf Farmhouse — stone and glass principal suite" style="disp
+
+====================
+Image: yp7gODnubKyOzhmsbHhfNC0RPeI.jpg (Used in 12 places)
+  [index.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercont
+  [index.html]: sbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://frameruserco
+  [index.html]: HhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="./images/yp7gODnubKyOzhmsbHhfNC0R
+  [index.html]: rusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="./images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg" alt="Residential street of architect-designed homes in autumn" styl
+  [pages\journal.html]: (max-width: 1439.98px) max((100vw - 88px) / 2, 280px)" srcset="https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercont
+  [pages\journal.html]: sbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://frameruserco
+  [pages\journal.html]: HhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="../images/yp7gODnubKyOzhmsbHhfNC0
+  [pages\journal.html]: usercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="../images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg" alt="Residential street of architect-designed homes in autumn" styl
+  [pages\page.html]: x) max((min(100vw - 64px, 1344px) - 32px) / 2, 280px)" srcset="https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercont
+  [pages\page.html]: sbHhfNC0RPeI.jpg?scale-down-to=512&width=1800&height=1207 512w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://frameruserco
+  [pages\page.html]: HhfNC0RPeI.jpg?scale-down-to=1024&width=1800&height=1207 1024w,https://framerusercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="../images/yp7gODnubKyOzhmsbHhfNC0
+  [pages\page.html]: usercontent.com/images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg?width=1800&height=1207 1800w" src="../images/yp7gODnubKyOzhmsbHhfNC0RPeI.jpg" alt="Residential street of architect-designed homes in autumn" styl
