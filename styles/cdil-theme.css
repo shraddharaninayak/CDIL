@@ -1,0 +1,71 @@
+/* CDIL Theme System — dark/light toggle overrides */
+/* Smooth transitions when switching themes */
+html { color-scheme: dark light; }
+body { transition: background-color 0.35s ease, color 0.35s ease; }
+*, *::before, *::after { transition: background-color 0.35s ease, color 0.35s ease, border-color 0.35s ease; }
+
+/* ─── DARK MODE (explicit — force dark regardless of OS preference) ─── */
+html[data-theme="dark"] body {
+  --token-ed5af0b1-8875-4b9b-a8d0-dd29f7c8c608: #0a0b09;
+  --token-c941f91c-6e6d-4ea5-b219-96bcb55ec302: #101310;
+  --token-7ef4c794-a934-4238-b63d-afc17eed3470: #161a14;
+  --token-3d4ee4b7-308a-4377-8498-a666926a0f1f: #141812;
+  --token-025422ea-d283-4879-b332-741cb1c834c7: #f2efe6;
+  --token-b8cfd3da-418b-4999-a7f7-4bf97baf1624: #f2efe6b3;
+  --token-2bc6e7d1-a9ca-4702-8fc4-175e27bbed41: #f2efe673;
+  --token-ba881da2-e826-4088-9298-44580ededb79: #f2efe6;
+  --token-39afa882-6f84-4771-a9c6-41b1010d45fd: #f2efe6ad;
+  --token-d34888b7-6c91-4dbc-95a1-370fba2352b1: #f2efe621;
+  --token-c3b700a0-e034-4105-8e70-9eb489aa7919: #f2efe642;
+  --token-188a3d45-95fd-4365-8a52-07e39da3c218: #a3b29a;
+  --token-9645f11c-bb72-43fb-a365-fbce5f09d1f7: #0a0b09;
+  --token-5f60b2ed-a551-4dc8-bf48-3dd71455f574: #f2efe6;
+  --token-cd99b26a-3e9a-4aae-9255-455ee23a6817: #0a0b09;
+  --token-a77fe146-6e4c-4976-a820-205bc0541def: #f2efe6;
+  --token-5421301c-73fc-4099-bfb3-34c8dfae219d: #f2efe6b8;
+  --token-354e4aae-a1f5-407e-8f35-29c6b3c054fb: #f2efe657;
+  --token-5963c534-b724-4bb2-a112-8fef0d15a404: #f2efe64d;
+  --token-9069aa1d-845d-45b6-b58e-4f6be2ea0add: #0a0b098c;
+  --token-a90249d5-4f5c-4473-b5e1-bd6ef8abb2eb: #0a0b09;
+  --token-5b08f2e3-d536-4202-8870-3e59b36a9477: #0c0e0b85;
+  --token-3fbf44d9-8929-4cc0-a099-9e79e1beb95e: #6b7166;
+  --token-52aea3ae-4541-4f97-b856-1e49fdc6cd15: #1e2219;
+}
+
+/* ─── LIGHT MODE (explicit — force light regardless of OS preference) ─── */
+html[data-theme="light"] body {
+  --token-ed5af0b1-8875-4b9b-a8d0-dd29f7c8c608: #f3efe4;
+  --token-c941f91c-6e6d-4ea5-b219-96bcb55ec302: #faf7ef;
+  --token-7ef4c794-a934-4238-b63d-afc17eed3470: #e5e3da;
+  --token-3d4ee4b7-308a-4377-8498-a666926a0f1f: #1b2a21;
+  --token-025422ea-d283-4879-b332-741cb1c834c7: #1a2620;
+  --token-b8cfd3da-418b-4999-a7f7-4bf97baf1624: #1a2620bd;
+  --token-2bc6e7d1-a9ca-4702-8fc4-175e27bbed41: #1a262080;
+  --token-ba881da2-e826-4088-9298-44580ededb79: #efebe0;
+  --token-39afa882-6f84-4771-a9c6-41b1010d45fd: #efebe0ad;
+  --token-d34888b7-6c91-4dbc-95a1-370fba2352b1: #1a262029;
+  --token-c3b700a0-e034-4105-8e70-9eb489aa7919: #1a262052;
+  --token-188a3d45-95fd-4365-8a52-07e39da3c218: #35533f;
+  --token-9645f11c-bb72-43fb-a365-fbce5f09d1f7: #f3efe4;
+  --token-5f60b2ed-a551-4dc8-bf48-3dd71455f574: #1b2a21;
+  --token-cd99b26a-3e9a-4aae-9255-455ee23a6817: #f3efe4;
+  --token-a77fe146-6e4c-4976-a820-205bc0541def: #f5f2ea;
+  --token-5421301c-73fc-4099-bfb3-34c8dfae219d: #f5f2eab8;
+  --token-354e4aae-a1f5-407e-8f35-29c6b3c054fb: #0c100c57;
+  --token-5963c534-b724-4bb2-a112-8fef0d15a404: #f5f2ea4d;
+  --token-9069aa1d-845d-45b6-b58e-4f6be2ea0add: #080a088c;
+  --token-a90249d5-4f5c-4473-b5e1-bd6ef8abb2eb: #14180f;
+  --token-5b08f2e3-d536-4202-8870-3e59b36a9477: #f3efe49e;
+  --token-3fbf44d9-8929-4cc0-a099-9e79e1beb95e: #8a8f98;
+  --token-52aea3ae-4541-4f97-b856-1e49fdc6cd15: #edeef0;
+}
+
+/* ─── Loader: match selected theme ─── */
+html[data-theme="dark"] #ay-loader { background: #0a0b09; }
+html[data-theme="light"] #ay-loader { background: #f3efe4; }
+html[data-theme="dark"] #ay-loader .n { color: #f2efe6; }
+html[data-theme="light"] #ay-loader .n { color: #1a2620; }
+
+/* ─── Scrollbar: subtle theming ─── */
+html[data-theme="dark"] { scrollbar-color: #2a3327 #0a0b09; }
+html[data-theme="light"] { scrollbar-color: #c5c0b0 #f3efe4; }
